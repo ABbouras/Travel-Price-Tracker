@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Maldives",
+    "origin": "TUN",
+    "destination": "MLE",
+    "depart": "2026-08-22",
+    "return": "2026-09-01",
+    "budget": 850,
+    "enabled": true
+  }
+]
